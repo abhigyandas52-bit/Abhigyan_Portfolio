@@ -4,15 +4,16 @@
 - `index.html` — complete responsive portfolio website. No build step or dependencies required.
 
 ## Publish with GitHub Pages
-1. Create a new **public** GitHub repository, e.g. `abhigyan-portfolio`.
-2. Upload `index.html` to the repository root.
-3. In GitHub, open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)`, then Save.
-6. GitHub will provide the public website URL.
+1. Go to your repository **Settings**.
+2. In the left sidebar, click **Pages**.
+3. Under **Build and deployment**:
+   - Select **Deploy from a branch**
+   - Choose branch: **main**
+   - Choose folder: **/ (root)**
+4. Click **Save**.
 
-Typical URL:
-`https://YOUR-GITHUB-USERNAME.github.io/abhigyan-portfolio/`
+Your website URL:
+`https://abhigyandas52-bit.github.io/Abhigyan_Portfolio/`
 
 ## Publish with Netlify
 Create a new site and drag/drop this folder (or the `index.html` file) into Netlify's deploy area.
